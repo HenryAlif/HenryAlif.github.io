@@ -1,0 +1,34 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #98c3e9;
+}
+
+#project {
+  background-color: #98c3e9;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+footer {
+  background-color: #67b9fc;
+  padding-bottom: 5px;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+#skills {
+  background-color: #98c3e9;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

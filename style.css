@@ -13,6 +13,7 @@ h1 {
 
 section {
   padding-top: 6rem;
+  overflow: hidden;
 }
 
 footer {
@@ -31,4 +32,12 @@ body {
 a {
   text-decoration: none;
   color: black;
+}
+
+.col-md-5 {
+  padding: 2rem;
+}
+
+h1.display-3.fw-bold {
+  padding: 2rem;
 }
